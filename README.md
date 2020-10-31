@@ -40,12 +40,12 @@ b. Product Category
 </h3>
 </pre>
 ### Advanced Feature :
-
 <pre>
-<h31. Analysis of inventory through graphs and bar charts.
+<h3>
+1. Analysis of inventory through graphs and bar charts.
 2. Alerts will be shown if a particular item goes below its threshold quantity.
 3. Multilevel filters e.g. filtering fridges from electronics, then filtering based on
 capacity of fridges.
 </h3>
 </pre>
-<hr>
+
